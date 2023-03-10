@@ -49,7 +49,7 @@
       "description": "some description",
       "id": 1
     },
-        {
+    {
       "roomName": "A-002",
       "managerId": 1,
       "guestId": null,
@@ -70,7 +70,7 @@
       "guestEmail": "alonso@gmail.com",
       "initialDate": "10/03/2023",
       "endDate": "11/04/2023",
-      "price": 450,
+      "price": 450
     }
   ]
 }
