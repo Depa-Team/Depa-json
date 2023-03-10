@@ -22,7 +22,7 @@
   "users": [
     {
       "email": "diego@gmail.com",
-      "password": "$2a$10$KGXb/FIPCr7J6bbqkulC2Og8YevPkjg0X9Di0wLzFODtxhu6SBuNa",
+      "password": "diego123",
       "type": "manager",
       "plan": "Pro",
       "name": "Diego Talledo",
