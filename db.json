@@ -27,6 +27,14 @@
       "plan": "Pro",
       "name": "Diego Talledo",
       "id": 1
+    },
+    {
+      "email": "alonso@gmail.com",
+      "password": "alonso123",
+      "type": "guest",
+      "plan": "Pro",
+      "name": "Alonso Sanchez",
+      "id": 2
     }
   ],
   "rooms": [
