@@ -22,7 +22,7 @@
   "users": [
     {
       "email": "diego@gmail.com",
-      "password": "diego123",
+      "password": "123",
       "type": "manager",
       "plan": "Pro",
       "name": "Diego Talledo",
@@ -30,7 +30,7 @@
     },
     {
       "email": "alonso@gmail.com",
-      "password": "alonso123",
+      "password": "123",
       "type": "guest",
       "plan": "Pro",
       "name": "Alonso Sanchez",
