@@ -37,9 +37,9 @@
       "id": 2
     }
   ],
-  "rooms": [
+  "flats": [
     {
-      "roomName": "A-001",
+      "flatName": "A-001",
       "managerId": 1,
       "guestId": 2,
       "initialDate": "10/03/2023",
@@ -49,7 +49,7 @@
       "id": 1
     },
     {
-      "roomName": "A-002",
+      "flatName": "A-002",
       "managerId": 1,
       "guestId": null,
       "initialDate": null,
@@ -62,7 +62,7 @@
   "history": [
     {
       "id": 1,
-      "roomName": "First Room Example",
+      "flatName": "First Room Example",
       "managerId": 1,
       "guestName": "Alonso Sanchez",
       "guestEmail": "alonso@gmail.com",
