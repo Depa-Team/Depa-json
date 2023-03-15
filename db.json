@@ -46,7 +46,6 @@
       "endDate": "11/04/2023",
       "status": false,
       "price": 450,
-      "description": "some description",
       "id": 1
     },
     {
@@ -57,7 +56,6 @@
       "endDate": null,
       "status": true,
       "price": null,
-      "description": "some extra description",
       "id": 2
     }
   ],
