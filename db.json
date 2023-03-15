@@ -57,6 +57,16 @@
       "status": true,
       "price": null,
       "id": 2
+    },
+    {
+      "flatName": "A-002",
+      "managerId": 2,
+      "guestId": null,
+      "initialDate": null,
+      "endDate": null,
+      "status": true,
+      "price": null,
+      "id": 3
     }
   ],
   "history": [
