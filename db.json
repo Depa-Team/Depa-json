@@ -79,10 +79,10 @@
       "endDate": "11/04/2023",
       "price": 450
     },
-        {
+    {
       "id": 2,
       "flatName": "A-002",
-      "managerId": 1,
+      "managerId": 2,
       "guestName": "Marko Andres",
       "initialDate": "15/03/2023",
       "endDate": "15/06/2023",
