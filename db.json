@@ -82,7 +82,7 @@
     {
       "id": 2,
       "flatName": "A-002",
-      "managerId": 2,
+      "managerId": 1,
       "guestName": "Marko Andres",
       "initialDate": "15/03/2023",
       "endDate": "15/06/2023",
