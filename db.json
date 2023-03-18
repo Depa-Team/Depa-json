@@ -24,6 +24,7 @@
       "email": "diego@gmail.com",
       "password": "123",
       "type": "manager",
+      "phoneNumber": 944050944,
       "plan": "Pro",
       "name": "Diego Talledo",
       "id": 1
@@ -32,6 +33,7 @@
       "email": "alonso@gmail.com",
       "password": "123",
       "type": "guest",
+      "phoneNumber": 987052944,
       "plan": "Pro",
       "name": "Alonso Sanchez",
       "id": 2
